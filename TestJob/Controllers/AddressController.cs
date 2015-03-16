@@ -66,7 +66,7 @@ namespace TestJob.Controllers
                         .Take(pageSize)
                         .ToList();
            
-            // Count
+            // Count records
             pagedRecord.TotalRecords = db.Address
                         .Where(x => (searchtext == null || x.Country.Contains(searchtext)) &&
                           (searchtextCity == null || x.City.Contains(searchtextCity)) &&
