@@ -1,0 +1,200 @@
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\TestJob.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\TestJob.pdb
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\Antlr3.Runtime.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.AspNet.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.Core.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\EntityFramework.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\Microsoft.Web.Infrastructure.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\Newtonsoft.Json.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Net.Http.Formatting.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Helpers.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Http.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Http.WebHost.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Mvc.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Optimization.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Razor.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.WebPages.Deployment.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.WebPages.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.WebPages.Razor.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\WebGrease.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\WebMatrix.Data.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\WebMatrix.WebData.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\EntityFramework.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\Newtonsoft.Json.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Net.Http.Formatting.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Helpers.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Http.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Http.WebHost.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Mvc.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.Razor.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.WebPages.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.WebPages.Deployment.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Web.WebPages.Razor.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\WebMatrix.Data.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\WebMatrix.WebData.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.AspNet.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.Core.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\EntityFramework.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.Helpers.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.Http.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.Mvc.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.Optimization.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.Razor.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.WebPages.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\WebMatrix.Data.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\ru\WebMatrix.WebData.resources.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\obj\Debug\TestJob.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\obj\Debug\TestJob.dll
+c:\users\администратор\documents\visual studio 2012\Projects\TestJob\TestJob\obj\Debug\TestJob.pdb
+C:\Users\Администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\FluentValidationNA.dll
+C:\Users\Администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Linq.Dynamic.dll
+C:\Users\Администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\FluentValidationNA.xml
+C:\Users\Администратор\documents\visual studio 2012\Projects\TestJob\TestJob\bin\System.Linq.Dynamic.xml
+D:\Work\G\TestJob\TestJob\bin\TestJob.dll
+D:\Work\G\TestJob\TestJob\bin\TestJob.pdb
+D:\Work\G\TestJob\TestJob\bin\Antlr3.Runtime.dll
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.AspNet.dll
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.Core.dll
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.dll
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.dll
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Work\G\TestJob\TestJob\bin\EntityFramework.dll
+D:\Work\G\TestJob\TestJob\bin\FluentValidationNA.dll
+D:\Work\G\TestJob\TestJob\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\G\TestJob\TestJob\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Work\G\TestJob\TestJob\bin\Newtonsoft.Json.dll
+D:\Work\G\TestJob\TestJob\bin\System.Linq.Dynamic.dll
+D:\Work\G\TestJob\TestJob\bin\System.Net.Http.Formatting.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.Helpers.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.Http.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.Http.WebHost.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.Mvc.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.Optimization.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.Razor.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.WebPages.Deployment.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.WebPages.dll
+D:\Work\G\TestJob\TestJob\bin\System.Web.WebPages.Razor.dll
+D:\Work\G\TestJob\TestJob\bin\WebGrease.dll
+D:\Work\G\TestJob\TestJob\bin\WebMatrix.Data.dll
+D:\Work\G\TestJob\TestJob\bin\WebMatrix.WebData.dll
+D:\Work\G\TestJob\TestJob\bin\FluentValidationNA.xml
+D:\Work\G\TestJob\TestJob\bin\System.Linq.Dynamic.xml
+D:\Work\G\TestJob\TestJob\bin\EntityFramework.xml
+D:\Work\G\TestJob\TestJob\bin\Newtonsoft.Json.xml
+D:\Work\G\TestJob\TestJob\bin\System.Net.Http.Formatting.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.Helpers.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.Http.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.Http.WebHost.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.Mvc.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.Razor.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.WebPages.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.WebPages.Deployment.xml
+D:\Work\G\TestJob\TestJob\bin\System.Web.WebPages.Razor.xml
+D:\Work\G\TestJob\TestJob\bin\WebMatrix.Data.xml
+D:\Work\G\TestJob\TestJob\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Work\G\TestJob\TestJob\bin\WebMatrix.WebData.xml
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.AspNet.xml
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.Core.xml
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.xml
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.xml
+D:\Work\G\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Work\G\TestJob\TestJob\bin\ru\EntityFramework.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.Helpers.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.Http.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.Mvc.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.Optimization.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.Razor.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.WebPages.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\WebMatrix.Data.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Work\G\TestJob\TestJob\bin\ru\WebMatrix.WebData.resources.dll
+D:\Work\G\TestJob\TestJob\obj\Debug\TestJob.dll
+D:\Work\G\TestJob\TestJob\obj\Debug\TestJob.pdb
+D:\Work\WorkVersion\TestJob\TestJob\bin\TestJob.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\TestJob.pdb
+D:\Work\WorkVersion\TestJob\TestJob\bin\Antlr3.Runtime.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.AspNet.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.Core.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\EntityFramework.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\FluentValidationNA.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\Newtonsoft.Json.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Linq.Dynamic.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Net.Http.Formatting.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Helpers.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Http.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Http.WebHost.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Mvc.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Optimization.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Razor.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.WebPages.Deployment.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.WebPages.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.WebPages.Razor.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\WebGrease.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\WebMatrix.Data.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\WebMatrix.WebData.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\FluentValidationNA.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Linq.Dynamic.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\EntityFramework.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\Newtonsoft.Json.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Net.Http.Formatting.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Helpers.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Http.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Http.WebHost.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Mvc.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.Razor.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.WebPages.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.WebPages.Deployment.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\System.Web.WebPages.Razor.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\WebMatrix.Data.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\WebMatrix.WebData.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.AspNet.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.Core.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OAuth.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\EntityFramework.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.Helpers.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.Http.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.Mvc.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.Optimization.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.Razor.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.WebPages.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\WebMatrix.Data.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\bin\ru\WebMatrix.WebData.resources.dll
+D:\Work\WorkVersion\TestJob\TestJob\obj\Debug\TestJob.dll
+D:\Work\WorkVersion\TestJob\TestJob\obj\Debug\TestJob.pdb
+D:\Work\WorkVersion\TestJob\TestJob\obj\Debug\TestJob.csprojResolveAssemblyReference.cache

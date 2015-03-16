@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <title>Mail Addresses</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/themes/base/css") 
+  </head>
+  <body ng-app="app">
+    <div ng-view>
+
+
+    <div  class="container">
+            @RenderBody()
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/angularjs")
+    @Scripts.Render("~/bundles/bootstrapjs")
+    @Scripts.Render("~/bundles/app")
+    </div>
+  </body>
+</html>

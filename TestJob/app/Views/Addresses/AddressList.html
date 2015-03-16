@@ -1,0 +1,80 @@
+﻿<div>
+
+
+     <div class="well" style="background-image: none">
+            <div text-align="center"><h1>База данных почтовых адресов</h1></div>
+        <div class="input-group">
+
+             <table>
+                 <tr>
+                    <td>
+                        <input type="text"
+                                name="searchText"
+                                ng-model="data.filterOptions.filterText"
+                                class="form-control"
+                                placeholder="Country" /> 
+                             
+                    </td>
+                    <td> 
+                        <input type="text"
+                                name="searchTextCity"
+                                ng-model="data.filterTextCity"
+                                class="form-control"
+                                placeholder="City" />
+                    </td>
+                    <td> <input type="text"
+                                name="searchTextStreet"
+                                ng-model="data.filterTextStreet"
+                                class="form-control"
+                                placeholder="Street" />
+                    </td>
+                     <td> 
+                         <!--<input id="house" type="text" name="searchTextHouse" class="span1" value="" ng-model="data.filterTextHouse" data-slider-min="1" data-slider-max="999" data-slider-step="1" data-slider-value="[1,999]"/>-->
+                        
+                             <!--<button id="getVal" ng-model="data.filterTextHouse" class="btn">Поиск</button>-->
+                        <input type="text" 
+                                name="searchTextHouse"
+                                id="houseSliderVal"
+                                ng-model="data.filterTextHouse"
+                                class="form-control"
+                                placeholder="house 1, house 2" />                                
+
+                    </td>
+                    <td> <input type="text"
+                                name="searchTextPostCode"
+                                ng-model="data.filterTextPostCode"
+                                class="form-control"
+                                placeholder="Post Code"/>
+                    </td>
+                    <td> 
+                   
+                             <input type="date" 
+                                    style="width: auto" name="reservation" id="reservationtime"
+                                    class="form-control"
+                                    ng-model="data.filterTextDate"                                    
+                                    placeholder="YYYY-MM-ddTHH:mm"/> 
+                     </td>
+                     <td>     
+                            <input type="date" 
+                                    style="width: auto" name="reservation2" id="reservationtime2"
+                                    class="form-control"
+                                    ng-model="data.filterTextDate2"                                    
+                                    placeholder="YYYY-MM-ddTHH:mm"/>   
+                            <!--<input type="text" id="reservationtime" name="reservationtime" ng-model="data.filterTextDate" class="form-control"
+                                    placeholder="YYYY-MM-ddTHH:mm:ss" />-->
+
+                    </td>                 
+              </tr>
+              <tr>
+                     <button id="reset" class="btn">Reset filter</button>                         
+              </tr>
+          </table>
+            
+          <br />
+        
+        </div>
+        <div class="gridStyle" ng-grid="gridOptions"></div>
+    </div>
+</div>
+
+
